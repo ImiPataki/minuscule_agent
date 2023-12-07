@@ -5,6 +5,8 @@ Welcome to the *Minuscule Agent* repository! This project hosts a minimal but po
 It can work with multiple APIs to perform a task that involves calling multiple endpoints and feeding the
 results into each other. It learns on the fly about how to use the APIs.
 
+## To read the full description of the framework please visit the following link: [Minuscule Agent](https://joinsingularity.beehiiv.com/p/automate-your-job)
+
 ## Installation
 
 Follow these steps to install and run the AI agent:
