@@ -1,7 +1,7 @@
 # Minuscule Agent
 
 ## Introduction
-Welcome to the *minuscule_agent* repository! This project hosts a minimal but powerful AI agent, designed for efficiency and ease of use.
+Welcome to the *Minuscule Agent* repository! This project hosts a minimal but powerful AI agent, designed for efficiency and ease of use.
 It can work with multiple APIs to perform a task that involves calling multiple endpoints and feeding the
 results into each other. It learns on the fly about how to use the APIs.
 
