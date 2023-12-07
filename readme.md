@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 
 ### Updating API key
-Please update the API key in the llm.py file with your own OpenAI API key.
+Please update the API key in the `llm.py` file with your own OpenAI API key.
 
 
 ### Installing the Minuscule Agent Server
