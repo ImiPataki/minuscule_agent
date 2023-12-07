@@ -2,7 +2,7 @@
 
 ## Introduction
 Welcome to the *minuscule_agent* repository! This project hosts a minimal but powerful AI agent, designed for efficiency and ease of use.
-It can work with multiple APIs to perform a task that involves calling multiple APIs and feeding the
+It can work with multiple APIs to perform a task that involves calling multiple endpoints and feeding the
 results into each other. It learns on the fly about how to use the APIs.
 
 ## Installation
@@ -46,8 +46,15 @@ Install all the required packages:
 pip install -r requirements.txt
 ```
 
+### Updating API key
+Please update the API key in the llm.py file with your own OpenAI API key.
+
+
+### Installing the Minuscule Agent Server
+Please install the *[Minuscule Agent Server](https://github.com/ImiPataki/minuscule_agent_server)* as well, as it is required for the agent to work.
+
 ## Usage
-After installation, you can start using the AI agent by running:
+After installation and running the Server, you can start using the AI agent by running:
 ```
 python main.py
 ```
